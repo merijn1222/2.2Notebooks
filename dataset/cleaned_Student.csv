@@ -1,0 +1,101 @@
+student_id,leeftijdscategorie,leesniveau,taalniveau,interesses,voorkeur_materiaaltype,voorkeur_genre,max_leestijd_min,voorkeur_taal
+S001,22+,2F,C1,"kunstmatige intelligentie, relaties",Boek,informatief,60,NL
+S002,19-21,2F,B1,"reizen, persoonlijke ontwikkeling",Boek,informatief,60,NL
+S003,16-18,2F,C1,"technologie, humor, sport",gemengd,informatief,15,NL
+S004,16-18,2F,B2,"vriendschap, natuur, klimaat",online artikel,poëzie,30,NL
+S005,19-21,2F,B2,"kunstmatige intelligentie, muziek",online artikel,geen voorkeur,120,NL
+S006,16-18,2F,B2,"kunstmatige intelligentie, humor, relaties",Boek,poëzie,20,NL
+S007,16-18,2F,C1,"geschiedenis, maatschappij",gemengd,poëzie,15,NL
+S008,16-18,3F+,C1,"relaties, reizen",gemengd,geen voorkeur,20,NL
+S009,16-18,2F,B1,"politiek, klimaat",online artikel,poëzie,120,NL
+S010,22+,3F,B2,"geschiedenis, natuur",gemengd,fictie,20,NL
+S011,16-18,2F,B2,"kunstmatige intelligentie, relaties",Boek,informatief,60,NL
+S012,16-18,2F,B1,"persoonlijke ontwikkeling, misdaad",online artikel,geen voorkeur,30,NL
+S013,22+,2F,B2,"klimaat, gezondheid",online artikel,fictie,90,NL
+S014,16-18,2F,A2,"klimaat, vriendschap, natuur",online artikel,geen voorkeur,15,NL
+S015,19-21,3F,B1,"politiek, natuur, sport",gemengd,poëzie,90,NL
+S016,22+,2F,B2,"klimaat, muziek, reizen",online artikel,informatief,30,NL
+S017,22+,3F+,B1,"reizen, sport, klimaat",gemengd,fictie,45,NL
+S018,19-21,3F+,B1,"cultuur, misdaad, vriendschap",Boek,poëzie,90,NL
+S019,19-21,2F,B2,"persoonlijke ontwikkeling, maatschappij",online artikel,informatief,60,NL
+S020,19-21,3F+,B2,"kunstmatige intelligentie, natuur",online artikel,informatief,90,NL
+S021,19-21,3F,B1,"kunstmatige intelligentie, natuur, gezondheid",Boek,geen voorkeur,20,NL
+S022,19-21,2F,B2,"vriendschap, muziek, humor",Boek,poëzie,30,NL
+S023,22+,3F+,C1,"cultuur, natuur",gemengd,geen voorkeur,90,NL
+S024,16-18,2F,A2,"vriendschap, reizen",Boek,fictie,20,NL
+S025,22+,3F+,B1,"natuur, geschiedenis",Boek,fictie,15,NL
+S026,22+,2F,A2,"persoonlijke ontwikkeling, relaties, sport",online artikel,geen voorkeur,120,NL
+S027,19-21,3F,A2,"klimaat, muziek",online artikel,informatief,45,NL
+S028,19-21,2F,B2,"natuur, sport",Boek,poëzie,45,EN
+S029,22+,2F,B2,"persoonlijke ontwikkeling, muziek, reizen",Boek,geen voorkeur,90,NL
+S030,19-21,3F,B1,"reizen, natuur, relaties",Boek,geen voorkeur,15,NL
+S031,16-18,2F,B1,"maatschappij, geschiedenis, gezondheid",Boek,fictie,15,NL
+S032,22+,3F,B2,"vriendschap, misdaad, humor",Boek,geen voorkeur,120,NL
+S033,16-18,2F,B1,"technologie, kunstmatige intelligentie, klimaat",gemengd,informatief,120,NL
+S034,16-18,3F,B2,"spanning, maatschappij, relaties",Boek,fictie,15,NL
+S035,19-21,2F,B1,"humor, klimaat",online artikel,fictie,45,NL
+S036,16-18,2F,C1,"maatschappij, misdaad",online artikel,geen voorkeur,45,NL
+S037,19-21,3F,C1,"humor, reizen, relaties",gemengd,fictie,20,NL
+S038,16-18,3F+,B2,"humor, muziek, vriendschap",online artikel,geen voorkeur,45,NL
+S039,19-21,2F,C1,"gezondheid, reizen",gemengd,geen voorkeur,45,NL
+S040,22+,3F,A2,"misdaad, natuur, persoonlijke ontwikkeling",online artikel,fictie,30,NL
+S041,22+,2F,B1,"cultuur, muziek",Boek,geen voorkeur,90,NL
+S042,16-18,3F,B2,"kunstmatige intelligentie, reizen",online artikel,geen voorkeur,120,NL
+S043,19-21,3F+,B2,"humor, misdaad, technologie",online artikel,geen voorkeur,20,NL
+S044,16-18,2F,A2,"reizen, geschiedenis, humor",online artikel,poëzie,60,NL
+S045,22+,3F,B2,"technologie, politiek",online artikel,fictie,30,NL
+S046,19-21,3F,B1,"technologie, sport",online artikel,informatief,60,NL
+S047,19-21,3F,B2,"vriendschap, maatschappij, humor",gemengd,poëzie,90,NL
+S048,16-18,3F,A2,"spanning, kunstmatige intelligentie, cultuur",Boek,informatief,30,NL
+S049,16-18,2F,B1,"politiek, reizen",gemengd,geen voorkeur,60,NL
+S050,19-21,3F,B1,"vriendschap, politiek",online artikel,poëzie,45,NL
+S051,19-21,2F,C1,"reizen, cultuur",Boek,geen voorkeur,30,NL
+S052,22+,3F+,B1,"kunstmatige intelligentie, muziek, reizen",online artikel,poëzie,90,NL
+S053,19-21,3F+,B1,"spanning, muziek, reizen",online artikel,geen voorkeur,20,NL
+S054,16-18,3F,B2,"reizen, technologie",online artikel,geen voorkeur,90,NL
+S055,19-21,2F,B2,"sport, cultuur, kunstmatige intelligentie",online artikel,informatief,45,NL
+S056,16-18,2F,B1,"technologie, muziek",gemengd,fictie,120,NL
+S057,19-21,3F,C1,"sport, cultuur, persoonlijke ontwikkeling",Boek,fictie,90,NL
+S058,19-21,2F,B2,"reizen, klimaat, misdaad",online artikel,fictie,90,NL
+S059,19-21,3F+,B2,"natuur, politiek, relaties",online artikel,fictie,20,NL
+S060,19-21,2F,C1,"geschiedenis, politiek",Boek,fictie,45,NL
+S061,19-21,3F,C1,"reizen, spanning",Boek,fictie,120,NL
+S062,19-21,3F,B2,"klimaat, geschiedenis",Boek,geen voorkeur,90,NL
+S063,16-18,3F+,B2,"muziek, natuur, misdaad",Boek,informatief,30,NL
+S064,16-18,3F,B2,"humor, maatschappij",online artikel,fictie,120,NL
+S065,19-21,3F,B2,"reizen, politiek",Boek,fictie,30,NL
+S066,19-21,3F+,B1,"muziek, reizen, persoonlijke ontwikkeling",gemengd,informatief,60,NL
+S067,22+,3F+,B1,"sport, kunstmatige intelligentie, gezondheid",Boek,informatief,20,NL
+S068,16-18,2F,B2,"vriendschap, spanning, reizen",Boek,geen voorkeur,120,NL
+S069,16-18,2F,B1,"persoonlijke ontwikkeling, cultuur, gezondheid",online artikel,geen voorkeur,45,NL
+S070,22+,2F,B1,"reizen, vriendschap",gemengd,fictie,60,NL
+S071,19-21,2F,A2,"cultuur, geschiedenis, persoonlijke ontwikkeling",Boek,informatief,20,NL
+S072,16-18,3F,B2,"humor, sport, reizen",online artikel,poëzie,30,EN
+S073,19-21,3F,A2,"reizen, vriendschap, persoonlijke ontwikkeling",online artikel,informatief,60,NL
+S074,16-18,2F,A2,"technologie, vriendschap",Boek,fictie,15,NL
+S075,16-18,2F,C1,"reizen, geschiedenis",Boek,fictie,15,NL
+S076,19-21,2F,B2,"maatschappij, technologie, kunstmatige intelligentie",gemengd,geen voorkeur,15,NL
+S077,16-18,2F,A2,"gezondheid, kunstmatige intelligentie, klimaat",Boek,poëzie,45,EN
+S078,19-21,2F,B1,"politiek, technologie, vriendschap",online artikel,informatief,120,NL
+S079,22+,2F,C1,"spanning, misdaad",online artikel,poëzie,120,NL
+S080,16-18,3F,B1,"kunstmatige intelligentie, vriendschap",gemengd,informatief,30,NL
+S081,19-21,2F,B1,"reizen, sport",online artikel,poëzie,20,NL
+S082,19-21,2F,B1,"klimaat, spanning",online artikel,geen voorkeur,120,NL
+S083,16-18,2F,C1,"natuur, klimaat, persoonlijke ontwikkeling",online artikel,geen voorkeur,90,NL
+S084,19-21,2F,B1,"persoonlijke ontwikkeling, geschiedenis",gemengd,informatief,20,NL
+S085,16-18,2F,B2,"sport, humor",online artikel,fictie,45,NL
+S086,22+,2F,B1,"misdaad, humor",online artikel,geen voorkeur,45,NL
+S087,19-21,2F,C1,"technologie, politiek, natuur",online artikel,fictie,15,NL
+S088,16-18,2F,C1,"misdaad, cultuur",gemengd,geen voorkeur,90,NL
+S089,19-21,3F+,C1,"persoonlijke ontwikkeling, natuur",online artikel,geen voorkeur,120,NL
+S090,19-21,3F,C1,"politiek, misdaad",online artikel,fictie,20,NL
+S091,22+,3F+,A2,"relaties, humor, maatschappij",online artikel,poëzie,20,NL
+S092,22+,2F,B2,"persoonlijke ontwikkeling, vriendschap, muziek",gemengd,fictie,30,NL
+S093,19-21,2F,C1,"reizen, maatschappij, politiek",gemengd,fictie,60,NL
+S094,19-21,3F,B2,"relaties, muziek",gemengd,informatief,45,NL
+S095,22+,3F,B2,"sport, cultuur, gezondheid",gemengd,geen voorkeur,30,NL
+S096,16-18,2F,B1,"humor, reizen, kunstmatige intelligentie",Boek,informatief,15,NL
+S097,16-18,3F,C1,"sport, relaties",Boek,fictie,30,NL
+S098,16-18,2F,C1,"relaties, misdaad, spanning",gemengd,informatief,20,NL
+S099,16-18,2F,B1,"cultuur, reizen, natuur",Boek,informatief,30,NL
+S100,22+,2F,B2,"kunstmatige intelligentie, cultuur, natuur",gemengd,geen voorkeur,15,NL
